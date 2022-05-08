@@ -1,2 +1,2 @@
 # VS-Code-Projects
-this's a personal VS repository
+this's a personal vs repository
